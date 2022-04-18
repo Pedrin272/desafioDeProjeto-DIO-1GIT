@@ -1,0 +1,2 @@
+Pasta> GitBash> Git init ou crio o repo no github e depois git bash na pasta> git clone> adiciono meus diretorios e arquivos>
+git status> git add * ou [NomeArq/dir]>git commit > git remote add origin>git push origin master
